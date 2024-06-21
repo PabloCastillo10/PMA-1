@@ -77,11 +77,13 @@ public class Producto {
 
     @Override
     public String toString() {
-        return "Producto{" + "productoId=" + productoId + ", nombreProducto=" + nombreProducto + ", marcaProducto=" + marcaProducto + ", descripcionProducto=" + descripcionProducto + ", precio=" + precio + '}';
+        return "producto{" + "productoId=" + productoId + ", nombreProducto=" + nombreProducto + ", marcaProducto=" + marcaProducto + ", descripcionProducto=" + descripcionProducto + ", precio=" + precio + '}';
     }
+    
 
     
     short get;
+
     
     
 }
