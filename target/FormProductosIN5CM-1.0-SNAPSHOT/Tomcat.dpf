@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/FormProducto2023198">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxIdle="30" maxTotal="100" maxWaitMillis="10000" name="jdbc/SGBDProductosIN5CM" password="admin" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/SGBDProductosIN5CM?serverTimezone=GMT-6" username="root"/>
+</Context>
